@@ -5,3 +5,4 @@
 - parawan
 - lezak
 - piwko
+- ksiazka
